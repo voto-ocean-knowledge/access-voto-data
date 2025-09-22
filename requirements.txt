@@ -1,0 +1,8 @@
+requests
+xarray
+pandas
+netcdf4
+jupyterlab
+matplotlib
+gliderad2cp
+cmocean
