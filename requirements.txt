@@ -6,3 +6,4 @@ jupyterlab
 matplotlib
 gliderad2cp
 cmocean
+glidertools
